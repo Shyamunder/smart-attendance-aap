@@ -1,0 +1,8 @@
+node_modules/
+
+README.md
+package-lock.json
+package.json
+server.js.txt
+src/
+vite.config.ts
